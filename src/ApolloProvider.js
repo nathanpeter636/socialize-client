@@ -8,7 +8,7 @@ import { setContext } from 'apollo-link-context';
 
 
 const httpLink = createHttpLink({
-    uri: 'https://git.heroku.com/socialize-build.git'
+    uri: 'https://socialize-build.herokuapp.com/'
   });
   
   const authLink = setContext(() => {

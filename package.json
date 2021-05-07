@@ -44,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://git.heroku.com/socialize-build.git"
+  "proxy": "https://socialize-build.herokuapp.com/"
 }
